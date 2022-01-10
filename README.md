@@ -1,7 +1,7 @@
 - Hi, I’m Zakariya (Zak) Mehdi!
 
 Background:
-- I’m currently a Technology Analyst at Wells Fargo on the Investment Portfolio Advanced Data Analytics Research and Development team.
+- I’m currently a Technology Analyst at Wells Fargo on the Investment Portfolio Advanced Data Analytics Research and Development team. (*This is a personal account and not at all related to Wells Fargo*)
 - I have a Bachelors of Science in Computer Information Systems from The Univeristy of South Carolina.
 
 Languages:
